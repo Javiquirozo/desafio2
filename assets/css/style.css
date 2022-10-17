@@ -1,0 +1,57 @@
+.site-header{
+    background-color: aquamarine;
+    padding: 50px;
+    background-image: url(../imgs/bannerjavi.jpeg);
+    height: 180px;
+    background-size: auto;
+    color: floralwhite;
+    font-size: xx-small;
+    border: 0 100px 0 100px;
+}
+
+img{
+    width: 70%;
+    height: auto;
+    vertical-align: top;
+    size: 300px;
+   } 
+
+html {
+    display: block;
+}
+
+article {
+    display: block;
+}
+
+.recipe-container{
+    width: 1000px;
+    margin: 50px 100px 20px;
+    box-sizing: border-box;
+}
+
+.recipe-pic, .recipe-review{
+    display: inline-block;
+    width: 25%;
+}
+
+.recipe-review{
+    padding: 50px 20px;
+    text-align: justify;
+}
+
+.recipe{
+    margin-bottom: 50px;
+    padding-bottom: 30px;
+}
+
+body{
+    background-color: whitesmoke;
+}
+
+footer{
+    background-color: rgb(8, 118, 118);
+    color: white;
+    text-align: center;
+    padding:20px;
+}
